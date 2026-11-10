@@ -110,6 +110,7 @@ const ventas = [
     }
 ];
 
+module.exports= ventas;
 
 console.log("Cantidad de registros:", ventas.length);
 
